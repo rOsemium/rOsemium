@@ -2,7 +2,7 @@
 - 👀 I’m interested in stuff
 - 🌱 I’m currently learning Julia
 - 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me: rosevan at proton dot me
+- 📫 How to reach me: ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
